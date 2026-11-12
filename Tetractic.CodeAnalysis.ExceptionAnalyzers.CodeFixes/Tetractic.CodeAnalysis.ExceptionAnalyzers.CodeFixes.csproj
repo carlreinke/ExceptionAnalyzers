@@ -9,6 +9,7 @@
 
     <GenerateNullableAttributes>false</GenerateNullableAttributes>
 
+    <EnableNETAnalyzers>true</EnableNETAnalyzers>
     <AnalysisLevel>latest</AnalysisLevel>
     <AnalysisMode>Recommended</AnalysisMode>
     <EnforceCodeStyleInBuild>true</EnforceCodeStyleInBuild>
